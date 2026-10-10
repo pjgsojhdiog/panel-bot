@@ -1,0 +1,5 @@
+{
+  "name": "panel-bot",
+  "main": "index.js",
+  "type": "module"
+}
